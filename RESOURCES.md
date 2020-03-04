@@ -2,7 +2,7 @@
 
 ## Neural Ordinary Differential Equations [SEMINAL PAPER]
  - [Paper and Slides](https://drive.google.com/drive/folders/1-E2ZEJzIdDz13ec8mQ2OTlM2_h9aOh5O?usp=sharing)
- - [Code (Python/PyTorch)](https://github.com/rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq)
+ - [Code (Python/PyTorch)](https://github.com/rtqichen/torchdiffeq)
 
 ## Other Papers
 
