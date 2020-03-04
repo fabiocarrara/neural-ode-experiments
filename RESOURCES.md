@@ -2,7 +2,7 @@
 
 ## Neural Ordinary Differential Equations [SEMINAL PAPER]
  - [Paper and Slides](https://drive.google.com/drive/folders/1-E2ZEJzIdDz13ec8mQ2OTlM2_h9aOh5O?usp=sharing)
- - [Code (Python/PyTorch)](https://github.com/rtqichen/torchdiffeq)
+ - Code (Python/PyTorch): [torchdiffeq](https://github.com/rtqichen/torchdiffeq)
 
 ## Other Papers
 
@@ -15,4 +15,11 @@
 - [ANODE: Unconditionally Accurate
 Memory-Efficient Gradients for Neural ODEs](https://arxiv.org/abs/1902.10298)
 
-A more complete and better organized collection of paper on Neural ODEs: [https://github.com/Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode)
+A more complete and better organized collection of paper on Neural ODEs:
+
+[https://github.com/Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode)
+
+In this collection, papers under the category "Parametric ODEs" are the most related to our line of work.
+
+
+
