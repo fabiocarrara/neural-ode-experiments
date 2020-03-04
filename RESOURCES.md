@@ -15,7 +15,7 @@
 - [ANODE: Unconditionally Accurate
 Memory-Efficient Gradients for Neural ODEs](https://arxiv.org/abs/1902.10298)
 
-A more complete and better organized collection of paper on Neural ODEs:
+A more complete and better organized collection of papers on Neural ODEs:
 
 [https://github.com/Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode)
 
